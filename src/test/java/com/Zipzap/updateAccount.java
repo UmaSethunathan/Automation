@@ -1,13 +1,13 @@
-package com.Zipzap;
+//package com.Zipzap;
 
-import org.openqa.selenium.By;
+//import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
 import org.testng.annotations.Test;
 import org.openqa.selenium.WebDriver;
 
-public class updateAccount extends LoginTest1{
-	LoginTest1 locator;
+//public class updateAccount extends LoginTest1{
+	/*LoginTest1 locator;
 
 	public updateAccount(String Filepath) {
 		super(Filepath);
@@ -30,4 +30,4 @@ public class updateAccount extends LoginTest1{
 			 
 	  builder.perform();   
 	
-}}
+}}*/

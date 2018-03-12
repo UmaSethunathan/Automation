@@ -9,10 +9,10 @@ import org.testng.annotations.Test;
 
 public class FirstClass extends TestBase {
 
-@Test
-public void FirstTest() throws InterruptedException
+//@Test
+//public void FirstTest() throws InterruptedException
 {
-	Thread.sleep(2000);
+	/*Thread.sleep(2000);
 	//Opening an application
 	driver.get("https://app-staging.zipzap.me/login");
 	driver.findElement(By.xpath(".//*[@id='root']/div/div/div/div[2]/div/div[2]/form/div[1]/input")).sendKeys("uma.d.nathan@gmail.com");
