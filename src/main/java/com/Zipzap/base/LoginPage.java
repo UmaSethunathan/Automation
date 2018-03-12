@@ -36,7 +36,7 @@ public	void getProperty() throws IOException
 	{
 		
 
-//test
+//test for commit
         driver.get(OR.getProperty("https://app-staging.zipzap.me/login"));
         //WebDriverWait wait = new WebDriverWait(driver, 10);
        // driver.manage().timeouts().pageLoadTimeout(10, TimeUnit.SECONDS);
