@@ -21,14 +21,14 @@ public class TestmainClass {
 	public void setUp() throws Exception {
 
 		// Get current working directory and load data file
-		workingDir = System.getProperty("user.dir");
+		/*workingDir = System.getProperty("user.dir");
 			//	datafile.LoginTest12(workingDir+"\\src\\main\\java\\Config\\datafile.properties");
-      datafile.LoginTest12(workingDir+ "src\\main\\java\\Config\\datafile.properties");
+      //datafile.LoginTest1(workingDir+ "src\\main\\java\\Config\\datafile.properties");
 		// Create a new instance of the Firefox driver
 		System.setProperty("webdriver.gecko.driver", "src/main/resources/geckodriver.exe");	
 		driver = new FirefoxDriver();
 		driver.get("https://app-staging.zipzap.me/login");
 		//driver.manage().window().maximize();
 		//driver.manage().timeouts().implicitlyWait(1000, TimeUnit.SECONDS);
-	}
+*/	}
 }
