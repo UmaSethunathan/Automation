@@ -1,5 +1,5 @@
 package com.Zipzap;
-import com.Zipzap.base.TestBase;
+//import com.Zipzap.base.TestBase;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
@@ -7,11 +7,12 @@ import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.ui.Select;
 import org.testng.annotations.Test;
 
-public class FirstClass extends TestBase {
+//public class FirstClass extends TestBase 
+//{
 
 //@Test
 //public void FirstTest() throws InterruptedException
-{
+//{
 	/*Thread.sleep(2000);
 	//Opening an application
 	driver.get("https://app-staging.zipzap.me/login");
@@ -40,4 +41,4 @@ public class FirstClass extends TestBase {
 	 
 	 driver.findElement(By.xpath("/html/body/div/div/div/div[3]/div/div/div[2]/div[7]/div/button")).click();
 	}
-}
+}*/

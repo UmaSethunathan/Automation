@@ -1,4 +1,4 @@
-//package com.Zipzap;
+package com.Zipzap;
 
 //import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
